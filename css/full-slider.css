@@ -14,10 +14,6 @@
     height: 100%;
 }
 
-footer {
-    margin: 50px 0;
-}
-
 .font-thin {
     font-family: "Titillium Web", sans-serif;
     font-weight: 200;
@@ -50,7 +46,7 @@ html, body {
 }
 
 body {
-    background-color: #2f2f2f;
+    background-color: #3A405A;
     font-family: "Titillium Web", sans-serif;
     font-weight: normal;
     overflow-x: hidden;
@@ -106,27 +102,6 @@ body {
     padding: 8px;
 }
 
-.active-menu {
-    background-color: #4e4e4e;
-    content: '.';
-    display: block;
-    height: 5px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    transition: all .5 linear;
-    width: 1%;
-    z-index: 9;
-}
-
-.inv .active-menu {
-    background-color: #e4e6e5;
-}
-
-.special-active-menu {
-    z-index: 10;
-}
-
 #special-active-menu-1{
     background-color: #98dafc !important;
 }
@@ -180,26 +155,6 @@ body {
         margin-right: 12px;
     }
 
-    .nav li[data-slide="1"],
-    .nav li[data-slide="6"] {
-        background-color: #2f2f2f;
-    }
-
-    .nav li[data-slide="2"] {
-        background-color: #98dafc;
-    }
-
-    .nav li[data-slide="3"] {
-        background-color: #e74c3c;
-    }
-
-    .nav li[data-slide="4"] {
-        background-color: #34495e;
-    }
-
-    .nav li[data-slide="5"] {
-        background-color: #e67e22;
-    }
 
     .navbar-brand {
         margin: 0;
@@ -304,7 +259,7 @@ body {
 }
 
 #slide-2 {
-    background-color: #1abc9c;
+    background-color: #7F7167;
     color: #e4e6e5;
     padding-top: 90px;
 }
@@ -383,7 +338,7 @@ i {
 }
 
 #slide-3 {
-    background-color: #34495e;
+    background-color: #99B2DD;
     color: #e4e6e5;
     padding-top: 90px;
 }
@@ -423,19 +378,15 @@ i {
     font-size: 20px;
 }
 
-
-#lightbox-out {
-    background-color: rgba( 0, 0, 0, 0.7 );
-    height: 100%;
-    position: fixed;
-    width: 100%;
-    z-index: 99999;
-}
-
 .with-hover-text span {
     display: none;
 }
 
 .navigation-slide {
     cursor: pointer;
+}
+
+.icon-aboutMe{
+    width:96px;
+    height:96px;
 }
