@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa660739-1e4b-4ee3-bfcd-9945bb526be1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/basketball.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/happy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/music-player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/full-slider.css" afterPath="$PROJECT_DIR$/css/full-slider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="fa660739-1e4b-4ee3-bfcd-9945bb526be1" name="Default" comment="" />
     <ignored path="allen_web.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -303,12 +295,12 @@
       <workItem from="1475169048672" duration="7953000" />
       <workItem from="1475213979894" duration="2729000" />
       <workItem from="1475255990611" duration="5751000" />
-      <workItem from="1475292197917" duration="6696000" />
+      <workItem from="1475292197917" duration="6895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27163000" />
+    <option name="totallyTimeSpent" value="27362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1934" height="1030" extended-state="0" />
